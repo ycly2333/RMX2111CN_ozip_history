@@ -7,7 +7,6 @@ realme V5/Q2 (RMX2111CN) 官方包下载地址
 公测、内测、未正式公开发布的版本不会收集
 
 版本号   | 下载链接
-
 -------:|:-------------------------
 A.31     | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0310_all_JEmU4E3I6V6a.ozip)
 A.30     | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0300_all_bJRowbrIvv35.ozip)
