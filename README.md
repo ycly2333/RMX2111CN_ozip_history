@@ -18,5 +18,5 @@ A.16     | V5 | [A.16](A.16.md) | [下载直链](https://download.c.realme.com/o
 A.11     | V5 | [A.11](A.11.md) | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0100_all_XYS89N5XtuFq.ozip)
 A.08     | V5 | [A.08](A.08.md) | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0080_all_Z4ZThCKajyIs.ozip)
 
-## 酷安
+## 联系方式
 ![coolapk_ycly](coolapk_ycly.png)
