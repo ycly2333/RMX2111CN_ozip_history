@@ -16,7 +16,7 @@
 - 优化 系统稳定性，提升用户体验
 #### 安全
 - 更新 Android安全补丁（2020#9）
-### [下载地址](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0180_all_5bfdTuXpA4hF.ozip)
+### [下载地址](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0100_all_XYS89N5XtuFq.ozip)
 
 #### MD5
-3E981620828D58F89F1EB62AA7680A0E
+29FCEA1260F24078A8E1639F486AA257
