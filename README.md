@@ -18,5 +18,8 @@
 [A.11](A.11.md)     | V5 | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0100_all_XYS89N5XtuFq.ozip)
 [A.08](A.08.md)     | V5 | [下载直链](https://download.c.realme.com/osupdate/RMX2111_11_OTA_0080_all_Z4ZThCKajyIs.ozip)
 
+## QQ群
+![qq](realme_ycly.png)
+
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
